@@ -31,6 +31,6 @@ export default class SampleScene extends DCL.ScriptableScene {
           ]}
         />
       </scene>
-    );
+    )
   }
 }
